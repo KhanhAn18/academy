@@ -1,0 +1,3 @@
+fullName: Phan Ngoc Thoai
+Age: 19 
+NgheNghiep: sinh vien
